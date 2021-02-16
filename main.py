@@ -185,3 +185,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print("  Check your map on map.html  ")
